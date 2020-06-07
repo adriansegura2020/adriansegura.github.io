@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on Adrián Segura Moreiras</title>
+    <link>/categories/english/</link>
+    <description>Recent content in English on Adrián Segura Moreiras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puzzles and the Behavioural New Keynesian Model</title>
+      <link>/posts/determinacy_gabaix_new_keynesian_model/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/determinacy_gabaix_new_keynesian_model/</guid>
+      <description>Herein I conduct similar policy experiments to those of Carlstrom et al. (2012) with a Behavioural New Keynesian (BNK) model, instead of the standard New Keynesian model (only) or a sticky information model. The BNK model does a good job of solving previous issues with the standard model (as already noted by Gabaix).
+All of this work is already, explicitly or implicitly, in the cited articles, so I wouldn’t claim to show anything new.</description>
+    </item>
+    
+  </channel>
+</rss>
